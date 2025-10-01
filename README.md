@@ -1,7 +1,7 @@
 ## 💻 Tech Stack
 <p><strong>Currently using</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/Visual Studio 2019-5C2D91?style=flat-square&logo=visualstudio&logoColor=white"> <img src="https://img.shields.io/badge/Windows 10-0078D4?style=flat-square&logo=windows10&logoColor=white">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white">
     </div>
 
 <p><strong>Once I've used</strong></p>
